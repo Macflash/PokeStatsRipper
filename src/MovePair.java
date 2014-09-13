@@ -9,6 +9,6 @@ public class MovePair {
 	}
 	
 	public void output(){
-		System.out.println("Move: " + level + " - " + name);
+		//System.out.println("Move: " + level + " - " + name);
 	}
 }
